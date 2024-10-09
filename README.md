@@ -1,5 +1,5 @@
 - 👋 Meu nome é Anderson Gomes!
-- 🔭 Atualmente, estou no 2° ciência da comptação na UFF.
+- 🔭 Atualmente, estou no 2° período de ciência da comptação na UFF.
 - 🌱 Atualemnte, estou aprendendo C, HTML e CSS.
 - 🤔 Tenho conhecimento em python e pretendo aprender tanto back-end quanto front-end.
 
