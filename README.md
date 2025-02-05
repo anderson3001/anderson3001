@@ -1,8 +1,8 @@
 ## Meu nome é Anderson Gomes!
 
 
-![Anderson3001's Stats](https://github-readme-stats.vercel.app/api?username=Anderson3001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Anderson3001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson3001&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![anderson3001's Stats](https://github-readme-stats.vercel.app/api?username=anderson3001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![anderson3001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson3001&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Ande-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ande-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
